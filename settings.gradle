@@ -1,1 +1,1 @@
-include ':mobile', ':things', ':app'
+include ':app'
